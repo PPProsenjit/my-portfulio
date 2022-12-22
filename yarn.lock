@@ -2737,7 +2737,6 @@
 
 "crypto-browserify@^3.11.0":
   "integrity" "sha512-fz4spIh+znjO2VjL+IdhEpRJ3YN6sMzITSBijk6FK2UvTqruSQW+/cCZTSNsMiZNvUeq0CqurF+dAbyiGOY6Wg=="
-  "resolved" "https://registry.npmjs.org/foodFirs-browserify/-/foodFirs-browserify-3.12.0.tgz"
   "version" "3.12.0"
   dependencies:
     "browserify-cipher" "^1.0.0"
